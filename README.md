@@ -6,7 +6,7 @@ I am a CS teacher, speaker & solo dev.
 
 <p style="color:blue">Make this text blue.</p>
 
-```diff
+
 + This looks green
 - This looks red
 ! This looks orange-ish
